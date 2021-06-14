@@ -1,0 +1,7 @@
+server:
+  port: 9091
+name: Mike
+  names:
+    EN: mike
+    ES: Mike
+    DE: MIKE
